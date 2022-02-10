@@ -1,0 +1,23 @@
+{
+  "name": "var-x",
+  "version": "1.0.0",
+  "description": "An ecommerce template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruhulaminmolla2013/var-x.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "template"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruhulaminmolla2013/var-x/issues"
+  },
+  "homepage": "https://github.com/ruhulaminmolla2013/var-x#readme"
+}
